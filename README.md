@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML,CSS.**
 
-- 📫 How to reach me **rittamsingharoy795@gmail.com**
+- 📫 How to reach me **rittamsingharoy.official.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FCWzoh4ENdhE1iCr5npnmK-kLtgAA4mu/view?usp=drive_link](https://drive.google.com/file/d/1FCWzoh4ENdhE1iCr5npnmK-kLtgAA4mu/view?usp=drive_link)
 
