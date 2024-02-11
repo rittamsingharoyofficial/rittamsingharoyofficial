@@ -1,4 +1,4 @@
-![logo](https://github.com/rittamsingharoyofficial/rittamsingharoyofficial/blob/main/COVER%20PAGE.png)
+![logo](https://github.com/rittamsingharoyofficial/rittamsingharoyofficial/blob/main/COVER%20PAGE-4.png)
 <h1 align="center">Hi 👋, I'm Rittam Singha Roy</h1>
 <h3 align="center">A Passionate Frontend Devoloper From India.</h3>
 <image align="right" alt="coding" width="400"src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
